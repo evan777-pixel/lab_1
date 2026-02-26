@@ -1,6 +1,6 @@
 
 
-                                     1 Command Line short Exercises
+                                     I Command Line short Exercises
 
 a). An ice cream company wants to develop a product history log for their
 2023 sales campaign.
@@ -38,7 +38,7 @@ Crea un archivo .txt llamado "nombre" con tu nombre. Luego, haz una copia de ese
 
 
 
-                                        Command Line excercises:
+                                        II Command Line excercises:
 
 1. A canning company wants to use Ubuntu as their main OS for their
 activities. You have been hired to develop the following features:
@@ -58,9 +58,17 @@ d. Todos estos usuarios deben pertenecer al grupo "Distribución".
 
 
 
+2. Utilizando el ejercicio anterior, se requiere crear un árbol de rutas con las siguientes características:
+a. Crear una carpeta principal llamada "Tareas diseñadas".
+b. Dentro de esa carpeta, se deben crear los directorios "Mantenimiento", "Línea de producción", "Arreglos" y "Costos".
+c. Cada carpeta debe tener un archivo llamado "Fechas", que contiene los horarios específicos de los trabajadores según sus roles. Se puede seleccionar el horario para cada rol.
+d. Agregar un archivo llamado "Productos" a la carpeta "Tareas diseñadas". Este archivo debe contener al menos 3 productos predefinidos de su elección.
+e. Modificar los archivos de "Fechas" agregando: "Mantenimiento - Viernes", "Línea de producción - Lunes a Jueves", "Arreglos - con 2 días de anticipación" y "Costos - a fin de mes".
 
-2. Using the previous exercise is required to make a route tree with the
+ Using the previous exercise is required to make a route tree with the
 following features:
+
+
 
 a. Create a main folder called ‘Designed tasks’.
 mkdir "Designed tasks"
@@ -94,12 +102,7 @@ line – Monday to Thursday’, ‘Fixes – with 2 days of anticipation’ and
 ‘Costs – at the end of the month’.
 
 
-2. Utilizando el ejercicio anterior, se requiere crear un árbol de rutas con las siguientes características:
-a. Crear una carpeta principal llamada "Tareas diseñadas".
-b. Dentro de esa carpeta, se deben crear los directorios "Mantenimiento", "Línea de producción", "Arreglos" y "Costos".
-c. Cada carpeta debe tener un archivo llamado "Fechas", que contiene los horarios específicos de los trabajadores según sus roles. Se puede seleccionar el horario para cada rol.
-d. Agregar un archivo llamado "Productos" a la carpeta "Tareas diseñadas". Este archivo debe contener al menos 3 productos predefinidos de su elección.
-e. Modificar los archivos de "Fechas" agregando: "Mantenimiento - Viernes", "Línea de producción - Lunes a Jueves", "Arreglos - con 2 días de anticipación" y "Costos - a fin de mes".
+
 
 
 
